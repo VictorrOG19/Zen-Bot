@@ -1,2 +1,2 @@
 # Zen-Bot
-Prototype of a Discord Bot
+Prototype of a Discord Bot.
